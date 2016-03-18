@@ -1,6 +1,6 @@
 # Gulp
 
-it is a java script build tool for more information read inside project.
+it is a java script build tool , having the following features Automation,Platform-agnostic,Strong Ecosystem and Simple
 
 for setup 
 
